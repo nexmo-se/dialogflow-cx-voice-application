@@ -1,0 +1,1 @@
+web: node ./df-cx-voice-application.js

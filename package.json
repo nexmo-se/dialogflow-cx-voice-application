@@ -1,0 +1,20 @@
+{
+  "name": "df-cx-voice-application",
+  "version": "1.0.0",
+  "description": "df-cx-voice-application",
+  "main": "df-cx-voice-application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Chan",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@vonage/server-sdk": "^3.17.0",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": "18.19"
+  }
+}
